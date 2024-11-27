@@ -8,3 +8,4 @@ git rebasing
 git cherry-pick
 git alias
 git prune
+git squash and merge
